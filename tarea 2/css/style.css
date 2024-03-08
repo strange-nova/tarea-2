@@ -1,0 +1,155 @@
+#contenedor{
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+} 
+.principal1{
+    background-color: red;
+    width: 450px;
+    height: 670px;
+    margin: 10px;
+}
+.fil{
+    display: flex;
+    margin: 5px;
+}
+#caja1{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+#caja2{
+    background-color: rgb(19, 19, 46);
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+#caja3{
+    background-color: rgb(82, 82, 129);
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.colum{
+    display: flex;
+    flex-direction: column;
+    
+}
+#caja4{
+    background-color: rgb(75, 4, 4);
+    height: 80px;
+    width: 430px;
+    margin: 0 10px 8px 10px;
+}
+#caja5{
+    background-color: rgb(92, 72, 72);
+    height: 80px;
+    width: 430px;
+    margin: 0 10px 8px 10px;
+}
+#caja6{
+    background-color: rgb(49, 26, 26);
+    height: 80px;
+    width: 430px;
+    margin: 0 10px 8px 10px;
+}
+.fil1{
+    display: flex;
+    margin: 5px;
+}
+.principal2{
+    background-color: yellow;
+    width: 450px;
+    height: 670px;
+    margin: 10px;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+#caj1{
+    background-color: orange;
+    width: 420px;
+    height: 100px;
+    margin: 15px;
+}
+#caj2{
+    background-color: rgb(82, 60, 19);
+    width: 420px;
+    height: 100px;
+    margin: 15px;
+}
+#caj3{
+    background-color: rgb(255, 166, 0);
+    width: 420px;
+    height: 100px;
+    margin: 15px;
+}
+#caj4{
+    background-color: rgb(108, 102, 90);
+    width: 420px;
+    height: 100px;
+    margin: 15px;
+}
+#caj5{
+    background-color: rgb(27, 26, 24);
+    width: 420px;
+    height: 100px;
+    margin: 15px;
+}
+.principal3{
+    background-color: green;
+    width: 450px;
+    height: 670px;
+    margin: 10px;
+}
+.fil1{
+    display: flex;
+    margin: 5px;
+}
+#cja1{
+    background-color: rgb(139, 79, 1);
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+#cja2{
+    background-color: rgb(149, 73, 38);
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+#cja3{
+    background-color: rgb(120, 147, 52);
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    
+}
+#cja4{
+    background-color: rgb(2, 55, 15);
+    height: 80px;
+    width: 430px;
+    margin: 10px 10px 10px 10px;
+}
+#cja5{
+    background-color: rgb(107, 165, 113);
+    height: 80px;
+    width: 430px;
+    margin: 0 10px 10px 10px;
+}
+#cja6{
+    background-color: rgb(42, 151, 12);
+    height: 80px;
+    width: 430px;
+    margin: 0 10px 10px 10px;
+}
+.fl1{
+    display: flex;
+    margin: 5px;
+}
